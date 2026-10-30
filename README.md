@@ -3,7 +3,7 @@
 **Role Assessment:** AI Forward Deployed Engineer (FDE) Code Challenge  
 **Target Operational Horizon:** 2026-10-31  
 **Reproducibility Seed:** `20261022`  
-**Author:** Deepika Kanche  
+**Author:** Deepikarthini Kanche  
 
 ---
 
